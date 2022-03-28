@@ -3,6 +3,8 @@
 
 # Getting Started
 
+* ./gradlew clean test
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
@@ -18,7 +20,7 @@ The following guides illustrate how to use some features concretely:
 
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+* [Building REST com.dustin.pncpoc.services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 * [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
 
 ### Additional Links
@@ -26,4 +28,4 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 * [MongoDB Docker Container](https://www.mongodb.com/compatibility/docker)
-
+  https://spockframework.org/spock/docs/2.1/spock_primer.html
